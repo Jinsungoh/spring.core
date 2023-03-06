@@ -12,6 +12,6 @@ public class Calculator {
 		calc();
 		long end = System.currentTimeMillis();
 		
-		System.out.println("경과시간:" + (end - start));
+		System.out.println("계산기:" + (end - start));
 	}
 }
